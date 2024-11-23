@@ -1,0 +1,31 @@
+body {
+     background-color: #87b8ea;
+}
+form {
+     color: #ffff;text-shadow: 2px 2px 5px black;
+}
+table {
+     color: rgb(51, 0, 255);
+}
+
+h2 {
+  color:  blue;
+}
+h1 {
+     color:  blue;
+   }
+   h3 {
+     color:  blue;
+     text-size-adjust:  15%;
+     text-shadow: 0cqmax;
+   }
+   
+ /*########### Defaults
+############*/
+
+nav,
+header,
+foote
+
+   
+     
